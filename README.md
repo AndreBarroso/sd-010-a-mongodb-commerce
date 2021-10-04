@@ -50,7 +50,7 @@ https://github.com/AndreBarroso/sd-010-a-mongodb-commerce.git
 
 4. Acesse a pasta criada executando o comando a seguir:
 ```bash
-cd sd-010-a-mongodb-commerce.git
+cd sd-010-a-mongodb-commerce
 ```
 
 5. Instale as dependências do projeto executando:
